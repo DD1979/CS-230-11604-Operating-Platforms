@@ -3,9 +3,9 @@
 CS 230 8-2 - David A. DiPesa, Journal Assignment
 -------------------------------------------------
 
-Our client, The Gaming Room, asked us to assist in developing a web-based game application called, “Draw It or Lose It.”  Being web-based, they required their software to be fast rendering, easy-to-use and be housed in an environment that was secure, to protect their users’ data and control the level of access to the game.
+Our client, The Gaming Room, asked us to assist in developing a web-based application called, “Draw It or Lose It.”  Being web-based, they required their software to be fast rendering, easy-to-use and be housed in an environment that was secure, to protect their users’ data and control the level of access to the game.
 
-When developing documentation for this project, I think I did a good job of researching all of my requirements.  I hunted down my requirements based on price, reliability and current trends within the online video gaming industry.  I’m proud of the research I put into doing the design documentation and I hope that our client was also happy.
+When developing documentation for this project, I think I did a good job of researching all of my requirements.  I hunted down my requirements based on price, reliability and current trends within the online video gaming industry.  I’m proud of the research I put into doing the design documentation and I hope that our client was also pleased.
 
 The design document helped in understanding the defined parameters of the code.  We have a UML class diagram which shows us exactly what we need to do.  Also, defining our constraints also helped by showing us the unknowns before we start to develop code.  
 
